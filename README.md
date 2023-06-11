@@ -1,3 +1,3 @@
 # EmulatedSpace
-Trying to emulate Space Invaders using the 8080 processor.
+Intel 8080 emulator to play Space Invaders. 
 Written in C.
